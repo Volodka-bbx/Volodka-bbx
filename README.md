@@ -1,3 +1,10 @@
+echo "# Volodka-gitHub.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Volodka-bbx/Volodka-gitHub.io.git
+git push -u origin main
 - 👋 Hi, I’m @Volodka-bbx
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
